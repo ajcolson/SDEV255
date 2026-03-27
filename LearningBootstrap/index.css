@@ -1,0 +1,17 @@
+*{
+  --header-bg-color: #3789db;
+}
+
+header{
+  border-radius: .5em;
+  padding: .1em;
+  user-select: none;
+}
+footer{
+  border-radius: .25px;
+  padding: .1em;
+}
+
+.hidden{
+  display: none !important;
+}
